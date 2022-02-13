@@ -1,12 +1,14 @@
 {
   "files": {
-    "main.js": "/movieinfolive/static/js/main.4808fd72.chunk.js",
-    "main.js.map": "/movieinfolive/static/js/main.4808fd72.chunk.js.map",
+    "main.css": "/movieinfolive/static/css/main.585f8e84.chunk.css",
+    "main.js": "/movieinfolive/static/js/main.94108470.chunk.js",
+    "main.js.map": "/movieinfolive/static/js/main.94108470.chunk.js.map",
     "runtime-main.js": "/movieinfolive/static/js/runtime-main.26ccd752.js",
     "runtime-main.js.map": "/movieinfolive/static/js/runtime-main.26ccd752.js.map",
     "static/js/2.09c592b2.chunk.js": "/movieinfolive/static/js/2.09c592b2.chunk.js",
     "static/js/2.09c592b2.chunk.js.map": "/movieinfolive/static/js/2.09c592b2.chunk.js.map",
     "index.html": "/movieinfolive/index.html",
+    "static/css/main.585f8e84.chunk.css.map": "/movieinfolive/static/css/main.585f8e84.chunk.css.map",
     "static/js/2.09c592b2.chunk.js.LICENSE.txt": "/movieinfolive/static/js/2.09c592b2.chunk.js.LICENSE.txt",
     "static/media/no_image.22d2aa4d.jpg": "/movieinfolive/static/media/no_image.22d2aa4d.jpg",
     "static/media/react-movie-logo.42955eb6.svg": "/movieinfolive/static/media/react-movie-logo.42955eb6.svg",
@@ -16,6 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.26ccd752.js",
     "static/js/2.09c592b2.chunk.js",
-    "static/js/main.4808fd72.chunk.js"
+    "static/css/main.585f8e84.chunk.css",
+    "static/js/main.94108470.chunk.js"
   ]
 }
